@@ -1,0 +1,6 @@
+*.[do]
+*.lst
+*~
+Start_STM32_Prj/Start_STM32_Demo/Drivers/
+Start_STM32_Prj/Start_STM32_Demo/.vscode/
+Start_STM32_Prj/Start_STM32_Demo/build/
